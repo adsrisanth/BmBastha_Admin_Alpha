@@ -23,14 +23,13 @@ export default {
       }
     },
     screens: {
-      xxl: '1200px',
-      xl: '992px',
-      lg: '840px',
-      md: '768px',
-      sm: '640px',
-      ssm: '576px',
-      vsm: '400px',
-      vvsm: '330px'
+      xxl: '1600px',
+      xl: '1440px',
+      sl: '1024px',
+      t: '768px',
+      l: '425px',
+      m: '375px',
+      s: '320px'
     }
   },
   variants: {
