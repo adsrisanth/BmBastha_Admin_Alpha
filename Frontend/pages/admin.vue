@@ -5,7 +5,7 @@
                 <div class="w-16">
                     <img src="../assets/images/logo.svg" alt="">
                 </div>
-                <div class="font- text-3xl font-bol py-3 flex justify-center h-full">
+                <div class="font-poppins text-3xl font-bol py-4 flex justify-center h-full">
                     <span>BmBastha</span>
                 </div>
             </div>
@@ -45,7 +45,7 @@
                 </div>
             </div>
             <div class="text-gray-300 text-xl flex flex-row">
-                <div class="w-8">
+                <div class="w-8 h-8">
                     <img src="../assets/images/lock.svg">
                 </div>
                 <div class="p-1"> 
